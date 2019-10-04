@@ -1,0 +1,14 @@
+D:\Projects\C# Programs\2018\Monogram\Monogram\bin\Debug\Monogram.exe.config
+D:\Projects\C# Programs\2018\Monogram\Monogram\bin\Debug\Monogram.exe
+D:\Projects\C# Programs\2018\Monogram\Monogram\bin\Debug\Monogram.pdb
+D:\Projects\C# Programs\2018\Monogram\Monogram\obj\Debug\Monogram.csprojAssemblyReference.cache
+D:\Projects\C# Programs\2018\Monogram\Monogram\obj\Debug\Monogram.csproj.CoreCompileInputs.cache
+D:\Projects\C# Programs\2018\Monogram\Monogram\obj\Debug\Monogram.exe
+D:\Projects\C# Programs\2018\Monogram\Monogram\obj\Debug\Monogram.pdb
+G:\Monogram\Monogram\bin\Debug\Monogram.exe.config
+G:\Monogram\Monogram\bin\Debug\Monogram.exe
+G:\Monogram\Monogram\bin\Debug\Monogram.pdb
+G:\Monogram\Monogram\obj\Debug\Monogram.csprojAssemblyReference.cache
+G:\Monogram\Monogram\obj\Debug\Monogram.csproj.CoreCompileInputs.cache
+G:\Monogram\Monogram\obj\Debug\Monogram.exe
+G:\Monogram\Monogram\obj\Debug\Monogram.pdb
